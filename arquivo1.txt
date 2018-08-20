@@ -1,3 +1,3 @@
 Alterada a primeira linha do arquivo
-segunda linha
+alterada a segunda linha
 Finalmente, a terceira linha
