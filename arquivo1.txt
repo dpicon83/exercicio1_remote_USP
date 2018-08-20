@@ -1,2 +1,3 @@
 Primeira linha do arquivo
 segunda linha
+Finalmente, a terceira linha
